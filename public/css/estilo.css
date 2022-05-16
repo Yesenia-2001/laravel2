@@ -1,0 +1,160 @@
+#nav-estilo{
+    font-size: 24px;
+    box-shadow: 0px 0px 5px 1px black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.navbar-nav{
+    margin-top: 15px;
+    margin-left: 10em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#logocar{
+    margin-left: 180px;
+}
+
+.circulo {
+    width: 50px;
+    height: 50px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background:  #AA3F3F;
+    margin-left: 75px;
+    margin-top: 15px;
+    
+}
+.input-buscar{
+    border: 0;
+    border-radius: 10px;
+    height: 60px;
+    width: 31em;
+    margin-left: 10px;
+    margin-top: 20px;
+    background-color: #EEF0F8;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+#boton-crear{
+    background-color: #EEF8EE;
+    border-radius:10px;
+    width:150px;
+    height: 60px;
+    font-size: 24px;
+    margin-left: 34em;
+    margin-top: -88px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    border: 0;
+}
+#boton-filtrar{
+    background-color: #F8EEEF;
+    border-radius:10px;
+    width:150px;
+    height: 60px;
+    font-size: 24px;
+    margin-left: 27.2em;
+    margin-top: -60px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+
+}
+#tabla{
+    font-size: 20px;
+    width: 55em;
+    margin-right: -30px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* border: 1px solid red; */
+   
+}
+.form-register{
+    height: 32em;
+    margin-top: -40px;
+}
+.container{
+    margin-top: 30px;
+    border-radius: 20px;
+    width: 10000em;
+    box-shadow: 0px 0px 5px 1px black;
+} 
+.containerlogin{
+    margin-top: 90px;
+    border-radius: 10px;
+    width: 35em;
+    box-shadow: 0px 0px 5px 1px black;
+    text-align: center;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    margin-left: 25em;
+}
+#logocarlogin{
+    margin-top:20px; 
+}
+.formu1{
+    width: 15em;
+    margin-left: 70px;
+    margin-top: 20px;
+} 
+.formu2{
+    width: 15em;
+    margin-left: 24em;
+    margin-top: -24em;
+}
+
+.botoncrear{
+    background-color: #EEF8EE;
+    border-radius:10px;
+    width:200px;
+    height: 50px;
+    font-size: 24px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 0;
+    margin-top: 10px;
+
+}
+.modal-content{
+    width:44em; 
+    height:34em; 
+    margin-right:60px;
+    position: relative;
+    right: 7em;
+    top: 30px;   
+}
+.modal-header{
+    border: 0;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+/* .section-formu{
+    border-radius: 10px;
+    height: 38em;
+    width: 50em;
+    margin-left: 50px;
+    margin-top: 30px;
+    box-shadow: 0px 0px 5px 1px black; 
+}
+#formucon{
+    width: 15em;
+    margin-left: 90px;
+    margin-top: 10px;
+}
+#formucon1{
+    width: 15em;
+    margin-left: 25em;
+    margin-top: -159px;
+} */
+.section-formu-con{
+    /*border: 1px solid black;*/
+    border-radius: 10px;
+    height: 25em;
+    width: 45em;
+    margin-left: 50px;
+    margin-top: 30px;
+    box-shadow: 0px 0px 5px 1px black; 
+}
